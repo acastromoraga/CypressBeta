@@ -1,0 +1,4 @@
+{
+    "archivoBusqueda" : "#search_query_top",
+    "btnBusqueda": "#searchbox > .btn"
+}

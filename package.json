@@ -16,12 +16,11 @@
   ],
   "author": "alejandro Castro",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^9.1.1"
-  },
   "repository": {
     "type": "git",
     "url": "git@github.com:acastromoraga/CypressBeta.git"
+  },
+  "devDependencies": {
+    "cypress": "^9.1.1"
   }
-  
 }
